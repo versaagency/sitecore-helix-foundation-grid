@@ -1,0 +1,26 @@
+﻿---
+ID: "5c68430b-c976-4fdb-88b8-7a7eec2bde85"
+Parent: "6a56c001-7448-4278-9819-66fc6bf18488"
+Template: "6a56c001-7448-4278-9819-66fc6bf18488"
+Path: /sitecore/templates/Foundation/Grid/Container Type Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/folder.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{B644C3EB-268B-4638-82B5-C48AE150E9F6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T211732Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

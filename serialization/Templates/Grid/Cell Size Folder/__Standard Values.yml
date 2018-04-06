@@ -1,0 +1,26 @@
+﻿---
+ID: "33781149-9613-47f5-a130-cba63002b8f7"
+Parent: "18716c7c-2f7b-449f-8755-e9401d4b7161"
+Template: "18716c7c-2f7b-449f-8755-e9401d4b7161"
+Path: /sitecore/templates/Foundation/Grid/Cell Size Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{53FBBB98-B2A1-4CF3-AD00-2203BB1A8F67}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180206T063906Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "e070d002-46c8-4fb0-bf36-0d49cbb6d70b"
+Parent: "beeda047-dd2f-4846-9210-10f5e3ac4c3a"
+Template: "87fe5230-ef82-48c4-b19d-322109891755"
+Path: /sitecore/system/Settings/Foundation/Grid/Horizontal Alignments/center
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180309T040146Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

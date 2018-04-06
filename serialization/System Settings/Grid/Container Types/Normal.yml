@@ -1,0 +1,25 @@
+﻿---
+ID: "0b6f5f39-e3a1-4096-b6d2-7c812e97dc45"
+Parent: "eb2783d9-7c83-4350-9b2b-e7137610fd93"
+Template: "b644c3eb-268b-4638-82b5-c48ae150e9f6"
+Path: /sitecore/system/Settings/Foundation/Grid/Container Types/Normal
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T212021Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b8d782a7-fcca-40ef-9694-6b00858204c7"
+      Hint: Class
+      Value: "grid-container"

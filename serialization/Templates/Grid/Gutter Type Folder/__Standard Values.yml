@@ -1,0 +1,26 @@
+﻿---
+ID: "dd5781f0-db1d-45a8-8351-7126916fa9c5"
+Parent: "eb66ea36-091c-4eb0-b1d1-c5c1f288df13"
+Template: "eb66ea36-091c-4eb0-b1d1-c5c1f288df13"
+Path: /sitecore/templates/Foundation/Grid/Gutter Type Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{67AAAB4B-1BB2-43B7-A2CD-CCAEC30E4E07}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180218T235219Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

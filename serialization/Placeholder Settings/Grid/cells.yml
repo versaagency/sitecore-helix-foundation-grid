@@ -1,0 +1,22 @@
+﻿---
+ID: "c9101e4b-fd3c-4654-95df-a234fb03f1a9"
+Parent: "08abdcf8-bc8e-4753-ad35-354ec2e4bd91"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Foundation/Grid/cells
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: cells
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: "{95C8A7C5-714D-420B-A624-69559F3729CE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T060606Z

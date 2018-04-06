@@ -1,0 +1,21 @@
+﻿---
+ID: "48f0c0c2-0235-4172-b91e-a750d1775310"
+Parent: "40d4c470-3a45-4b1b-8c8b-eba34d7f5e38"
+Template: "40d4c470-3a45-4b1b-8c8b-eba34d7f5e38"
+Path: /sitecore/templates/Foundation/Grid/RenderingParameters_Cell/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T070730Z
+    - ID: "e36d03a3-639e-4a1d-af3b-93a8a91200db"
+      Hint: VerticalAlignment
+      Value: top

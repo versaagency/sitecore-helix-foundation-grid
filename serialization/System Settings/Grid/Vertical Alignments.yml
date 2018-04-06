@@ -1,0 +1,14 @@
+﻿---
+ID: "59e419a3-e67f-4e74-9587-6f20d877b952"
+Parent: "518c956c-3c40-407b-b75f-9f7684f2bc36"
+Template: "b3ff9688-f638-4173-8a41-8c032490017f"
+Path: /sitecore/system/Settings/Foundation/Grid/Vertical Alignments
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180309T040014Z

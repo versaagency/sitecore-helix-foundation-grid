@@ -1,0 +1,14 @@
+﻿---
+ID: "91da4626-b4d9-4a88-a441-588cc31e735a"
+Parent: "518c956c-3c40-407b-b75f-9f7684f2bc36"
+Template: "eb66ea36-091c-4eb0-b1d1-c5c1f288df13"
+Path: /sitecore/system/Settings/Foundation/Grid/Gutter Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180218T235345Z

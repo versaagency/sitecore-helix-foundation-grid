@@ -1,0 +1,9 @@
+@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<object>
+
+@{
+    var parameters = GetRenderingParameters<Sitecore.Foundation.Grid.Models.IRenderingParametersCell>();
+}
+
+<div class="grid-container">
+    @Html.Sitecore().DynamicPlaceholder("grids")
+</div>

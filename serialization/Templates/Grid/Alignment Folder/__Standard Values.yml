@@ -1,0 +1,26 @@
+﻿---
+ID: "ea900bc1-f7d8-4bc7-87d0-5b72e0b331d5"
+Parent: "b3ff9688-f638-4173-8a41-8c032490017f"
+Template: "b3ff9688-f638-4173-8a41-8c032490017f"
+Path: /sitecore/templates/Foundation/Grid/Alignment Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{87FE5230-EF82-48C4-B19D-322109891755}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180309T035841Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

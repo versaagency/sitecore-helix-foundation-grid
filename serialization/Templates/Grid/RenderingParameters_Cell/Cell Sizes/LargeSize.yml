@@ -1,0 +1,37 @@
+﻿---
+ID: "806514ab-1738-4703-89d3-7827b6f1c29c"
+Parent: "7f43f749-7b44-47d0-a6a2-82bbee0005ea"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Grid/RenderingParameters_Cell/Cell Sizes/LargeSize
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "{D46970A0-1119-4978-B3D0-B066DE45B013}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplist
+- ID: "b118496a-0f78-4a27-b55f-0a6c4b0b0fe1"
+  Hint: Default value
+  Value: 12
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Large Size
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: All the cells in a grid operate on a scale of 12. This means that the total combined size of all the columns in your grid must add up to 12. So, for example, if you have three columns in your grid, you could have all three columns have a size value of 4, as 3 x 4 = 12. Or, you could have two of those columns have a size of 5, and the other column have a size of 2, as (2 x 5) + (1 X 2) = 12.
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: The size of the cell for large screens (i.e. desktops / laptops)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180206T064149Z

@@ -1,0 +1,26 @@
+@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<Sitecore.Mvc.Presentation.RenderingModel>
+
+@{
+    var parameters = GetRenderingParameters<Sitecore.Foundation.Grid.Models.IRenderingParameters_Grid>();
+
+    var useContainer = parameters != null && parameters.ContainerType != null;
+    var containerClass = useContainer ? parameters.ContainerType.Class : "";
+
+    var useGridType = parameters != null && parameters.GutterType != null;
+    var gridTypeClass = useGridType ? parameters.GutterType.Class : "";
+
+
+    var cellAlignmentClass = "";
+
+
+    if (!string.IsNullOrEmpty(parameters.CellAlignment))
+    {
+        cellAlignmentClass = "align-" + parameters.CellAlignment;
+    }
+}
+
+<div class="@containerClass">
+    <div class="grid-x @gridTypeClass @cellAlignmentClass">
+        @Html.Sitecore().DynamicPlaceholder("cells")
+    </div>
+</div>

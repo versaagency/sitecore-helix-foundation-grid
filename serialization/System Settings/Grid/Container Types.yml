@@ -1,0 +1,18 @@
+﻿---
+ID: "eb2783d9-7c83-4350-9b2b-e7137610fd93"
+Parent: "518c956c-3c40-407b-b75f-9f7684f2bc36"
+Template: "6a56c001-7448-4278-9819-66fc6bf18488"
+Path: /sitecore/system/Settings/Foundation/Grid/Container Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T211724Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

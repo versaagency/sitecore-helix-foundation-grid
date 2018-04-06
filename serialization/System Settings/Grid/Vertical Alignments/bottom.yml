@@ -1,0 +1,18 @@
+﻿---
+ID: "03dec6e3-5ebc-4d61-bf2d-546ce1d4849e"
+Parent: "59e419a3-e67f-4e74-9587-6f20d877b952"
+Template: "87fe5230-ef82-48c4-b19d-322109891755"
+Path: /sitecore/system/Settings/Foundation/Grid/Vertical Alignments/bottom
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180309T040040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

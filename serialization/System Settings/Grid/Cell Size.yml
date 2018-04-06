@@ -1,0 +1,18 @@
+﻿---
+ID: "d46970a0-1119-4978-b3d0-b066de45b013"
+Parent: "518c956c-3c40-407b-b75f-9f7684f2bc36"
+Template: "18716c7c-2f7b-449f-8755-e9401d4b7161"
+Path: /sitecore/system/Settings/Foundation/Grid/Cell Size
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cell Size
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180206T064004Z

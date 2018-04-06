@@ -1,0 +1,21 @@
+﻿---
+ID: "ddf4cb39-b453-4822-81f9-4b33b1f29b35"
+Parent: "eb2783d9-7c83-4350-9b2b-e7137610fd93"
+Template: "b644c3eb-268b-4638-82b5-c48ae150e9f6"
+Path: /sitecore/system/Settings/Foundation/Grid/Container Types/Fluid
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T212848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b8d782a7-fcca-40ef-9694-6b00858204c7"
+      Hint: Class
+      Value: "grid-container fluid"

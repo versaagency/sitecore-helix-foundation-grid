@@ -1,0 +1,37 @@
+@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<Sitecore.Mvc.Presentation.RenderingModel>
+
+@{
+    var parameters = GetRenderingParameters<Sitecore.Foundation.Grid.Models.IRenderingParameters_Cell>();
+    var smallClass = "";
+    var mediumClass = "";
+    var largeClass = "";
+
+    var strokeTopClass = "";
+    var strokeRightClass = "";
+    var strokeBottomClass = "";
+    var strokeLeftClass = "";
+
+    var verticalAlignmentClass = "";
+
+    if (parameters != null)
+    {
+        smallClass = "small-" + parameters.SmallSize;
+        mediumClass = "medium-" + parameters.MediumSize;
+        largeClass = "large-" + parameters.LargeSize;
+
+        strokeTopClass = parameters.StrokeTop ? "cell--stroke-top" : "";
+        strokeRightClass = parameters.StrokeRight ? "cell--stroke-right" : "";
+        strokeBottomClass = parameters.StrokeBottom ? "cell--stroke-bottom" : "";
+        strokeLeftClass = parameters.StrokeLeft ? "cell--stroke-left" : "";
+
+        if (!string.IsNullOrEmpty(parameters.VerticalAlignment))
+        {
+            verticalAlignmentClass = "align-self-" + parameters.VerticalAlignment;
+        }
+
+    }
+}
+
+<div class="cell @smallClass @mediumClass @largeClass @strokeTopClass @strokeRightClass @strokeBottomClass @strokeLeftClass @verticalAlignmentClass">
+    @Html.Sitecore().DynamicPlaceholder("content")
+</div>

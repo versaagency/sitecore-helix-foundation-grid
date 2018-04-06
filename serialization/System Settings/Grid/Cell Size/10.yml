@@ -1,0 +1,18 @@
+﻿---
+ID: "c1aa9578-6d30-4566-8302-c2478ff56b00"
+Parent: "d46970a0-1119-4978-b3d0-b066de45b013"
+Template: "53fbbb98-b2a1-4cf3-ad00-2203bb1a8f67"
+Path: /sitecore/system/Settings/Foundation/Grid/Cell Size/10
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180207T093314Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "7f43f749-7b44-47d0-a6a2-82bbee0005ea"
+Parent: "40d4c470-3a45-4b1b-8c8b-eba34d7f5e38"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Grid/RenderingParameters_Cell/Cell Sizes
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: All the cells in a grid operate on a scale of 12. This means that the total combined size of all the columns in your grid must add up to 12. So, for example, if you have three columns in your grid, you could have all three columns have a size value of 4, as 3 x 4 = 12. Or, you could have two of those columns have a size of 5, and the other column have a size of 2, as (2 x 5) + (1 X 2) = 12.
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Must add up to 12 with the other cells in the grid (hover for more info)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180206T064149Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
