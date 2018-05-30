@@ -15,6 +15,9 @@ SharedFields:
   Hint: __Thumbnail
   Value: |
     <image mediaid="{F45D51BC-0A08-4290-918D-2AFEB2BD3E82}" />
+- ID: "ef7c5528-7307-4e19-863b-da19eed6a9ed"
+  Hint: Open Properties after Add
+  Value: 1
 Languages:
 - Language: en
   Versions:
