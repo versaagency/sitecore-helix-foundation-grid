@@ -4,6 +4,10 @@ Parent: "f4862d8a-ef6a-411c-ab9d-abfe5ed83ba7"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: "/sitecore/templates/Foundation/Grid/RenderingParameters_Spacing/Spacing - Margin"
 DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 Languages:
 - Language: en
   Versions:
